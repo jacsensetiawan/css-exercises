@@ -30,3 +30,9 @@ button {
   margin-bottom: 8px;
   padding: 16px 8px;
 }
+
+.button-container {
+  padding: 8px;
+  text-align: center;
+  margin: 0 auto;
+}
