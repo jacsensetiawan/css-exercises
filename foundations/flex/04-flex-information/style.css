@@ -28,6 +28,7 @@ img {
 /* Solution */
 .items {
   display: flex;
+  gap: 52px;
 }
 
 .title {
