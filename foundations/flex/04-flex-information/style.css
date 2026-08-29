@@ -25,6 +25,11 @@ img {
   background: #eee;
 }
 
+/* Solution */
 .items {
   display: flex;
+}
+
+.title {
+  text-align: center;
 }
