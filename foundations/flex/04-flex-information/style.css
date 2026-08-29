@@ -33,6 +33,9 @@ img {
 }
 
 .title {
-  text-align: center;
   padding: 32px;
+}
+
+body {
+  text-align: center;
 }
