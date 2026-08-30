@@ -39,3 +39,8 @@ body {
 .container {
   flex: 1;
 }
+
+.header {
+  font-size: 32px;
+  font-weight: 900px;
+}
