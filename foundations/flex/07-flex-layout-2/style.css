@@ -72,6 +72,10 @@ body {
   margin: 0;
 }
 
+.sidebar li {
+  margin-bottom: 16px;
+}
+
 .card {
   padding: 48px;
   width: 300px;
