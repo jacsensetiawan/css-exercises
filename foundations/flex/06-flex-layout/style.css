@@ -57,8 +57,13 @@ a {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  gap: 16px;
 }
 
 .footer {
   background-color: #eeeeee;
+}
+
+.buttons {
+  padding: 16px;
 }
