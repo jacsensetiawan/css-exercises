@@ -36,10 +36,6 @@ body {
   flex-direction: column;
 }
 
-.container {
-  flex: 1;
-}
-
 .header {
   font-size: 32px;
   font-weight: 900;
@@ -52,4 +48,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.mid {
+  display: flex;
+  flex: 1;
 }
