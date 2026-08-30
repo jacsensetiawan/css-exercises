@@ -26,7 +26,8 @@ input {
 }
 
 /* solution */
-p {
+body {
+  display: flex;
   flex-direction: column;
 }
 
@@ -45,10 +46,16 @@ a {
   display: flex;
   justify-content: space-between;
   text-align: center;
+  flex-shrink: 0;
+}
+
+.content {
+  flex: 1;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   text-align: center;
+  flex-shrink: 0;
 }
