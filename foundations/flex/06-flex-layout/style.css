@@ -26,6 +26,9 @@ input {
 }
 
 /* solution */
+p {
+  flex-direction: column;
+}
 
 ul {
   list-style-type: none;
